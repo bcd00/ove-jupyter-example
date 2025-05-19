@@ -1,0 +1,9 @@
+keplergl==0.3.7
+pyarrow==20.0.0
+pandas==2.2.3
+polars==1.29.0
+matplotlib==3.9.4
+seaborn==0.13.2
+plotly==6.1.0
+jupyter==1.1.1
+numpy==2.0.2
